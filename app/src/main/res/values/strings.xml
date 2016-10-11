@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Sqlite Demo</string>
+    <string name="customer_added_successfully" >Customer added successfully</string>
+    <string name="customer_could_not_be_added" >Customer couldn\'t be added</string>
+    <string name="customer_updated_successfully" >Customer updated successfully</string>
+    <string name="customer_couldnt_be_updated" >Customer couldn\'t be updated</string>
+    <string name="customer_deleted_successfully" >Customer deleted successfully</string>
+    <string name="customer_couldnt_be_deleted" >Customer couldn\'t be deleted</string>
+    <string name="select_a_customer_to_edit" >Select a customer to edit</string>
+    <string name="insert_update_delete_query_demo" >Insert, Update, Delete, &amp; Query demo !</string>
+    <string name="first_name" >First name</string>
+    <string name="last_name" >Last name</string>
+    <string name="add" >Add</string>
+    <string name="update" >Update</string>
+</resources>
